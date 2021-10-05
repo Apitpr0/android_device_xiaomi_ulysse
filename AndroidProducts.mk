@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_ulysse.mk
+    $(LOCAL_DIR)/xtended_ulysse.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_ulysse-user \
-    aosp_ulysse-userdebug \
-    aosp_ulysse-eng
+    xtended_ulysse-user \
+    xtended_ulysse-userdebug \
+    xtended_ulysse-eng
