@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_ulysse.mk
+    $(LOCAL_DIR)/arrow_ulysse.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_ulysse-user \
-    aosp_ulysse-userdebug \
-    aosp_ulysse-eng
+    arrow_ulysse-user \
+    arrow_ulysse-userdebug \
+    arrow_ulysse-eng
